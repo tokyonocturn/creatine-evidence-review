@@ -103,9 +103,9 @@ established findings from emerging or unsupported ones.
 
 | Question | Outcome | Evidence base | Pooled result | Certainty | Status | Sources |
 | --- | --- | --- | --- | --- | --- | --- |
-| Are creatine products contaminated with heavy metals? | Lead, arsenic, cadmium, mercury | Laboratory surveys; 33 products in one survey; 12 products in a 2025 testing programme | Most products low; occasional lead exceedance in gummies; powders performed well | Moderate | Established | R45, R46 |
+| Are creatine products contaminated with heavy metals? | Lead, arsenic, cadmium, mercury | Laboratory surveys; 33 products in one survey; 11 products in a 2025 testing programme | Most products low; occasional lead exceedance in gummies; powders performed well | Moderate | Established | R45, R46 |
 | Do creatine products match their labels? | Creatine content and creatinine | Laboratory surveys; Powders and gummies tested in 2024-2026 | Powders generally pass; several gummies contain little or no creatine | Moderate | Established | R46, R48 |
-| Is creatinine a meaningful impurity? | Creatinine concentration | Laboratory survey and review; 33 products; later commercial testing | Creatinine is the main degradation product; one 2026 product exceeded a 0.1% limit | Moderate | Established | R45, R48 |
+| Is creatinine a meaningful impurity? | Creatinine concentration | Laboratory survey and review; 33 products; later commercial testing | Creatinine is the main degradation product; one 2026 product exceeded ConsumerLab's creatinine limit | Moderate | Established | R45, R48 |
 | Does micronisation improve absorption? | Solubility and muscle uptake | Narrative reviews; Multiple studies | Finer particles mix better; solubility does not predict tissue uptake | Moderate | Unsupported | R02, R03 |
 | How stable is creatine in powder and in solution? | Creatine degradation to creatinine | Laboratory studies; Multiple | Dry powder is stable for years; in solution, degradation accelerates with heat and acidity | High | Established | R02, R53, R54 |
 | What do sport certifications verify? | Banned substances, label claims, manufacturing | Programme documentation; NSF Certified for Sport and Informed Sport | Finished-product testing plus facility and label review; Informed Sport tests every batch | High | Established | R49, R51, R52, R50 |
