@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset or report, cite it as below."
+title: "Creatine Supplementation: An Independent Evidence Review and Product Database"
+abstract: >-
+  A structured review of creatine monohydrate and alternative formulations,
+  covering efficacy, dosing, safety, special populations, product quality,
+  certification, and cost per effective dose. Includes reproducible datasets
+  and a validation pipeline.
+authors:
+  - family-names: "Edwards"
+    given-names: "Kevin"
+    email: "kevinedwards7289@gmail.com"
+date-released: "2026-11-18"
+version: "1.0.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/tokyonocturn/creatine-evidence-review"
+keywords:
+  - creatine
+  - sports nutrition
+  - evidence synthesis
+  - supplement quality
+  - dosage

@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Workspace material unrelated to this repository
+.freebuff/
+gol-protein-investigation/
+whey-protein-investigation/
+analysis/compute_costs.py
+analysis/validate.py
+data/certifications.csv
+data/contaminants.csv
+data/derived_costs.csv
+data/flavors.csv
+data/prices.csv
+data/recalls.csv
+data/studies.csv
