@@ -898,7 +898,7 @@ system, or your dose was too low for your body mass.
 | --- | --- | --- | --- |
 | **NSF Certified for Sport** | ~290 banned substances, label content, formulation review, facility inspection, annual audits | Ongoing | Drug-tested athletes |
 | **Informed Sport** | 285+ banned substances by ISO 17025 methods, every batch before release | Every batch | Drug-tested athletes |
-| **Informed Choice** | Retail monitoring and periodic banned-substance testing | Monthly samples | General quality signal |
+| **Informed Choice** | Retail monitoring and periodic banned-substance testing | Periodic retail samples | General quality signal |
 | **NSF Contents Certified** | Label content and contaminants, not sport-banned substances | Periodic | Purity assurance |
 | **USP Verified** | Label content, contaminants, manufacturing | Periodic | General quality signal |
 

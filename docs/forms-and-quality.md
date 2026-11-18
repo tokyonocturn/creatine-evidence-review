@@ -193,7 +193,7 @@ reduce this uncertainty because they test ongoing production, not a single sampl
 | --- | --- | --- | --- |
 | **NSF Certified for Sport** | About 290 banned substances, label content, formulation review, facility inspection, annual audits | Ongoing, with lot testing | That the product is effective, or that it is the cheapest |
 | **Informed Sport** | 285+ banned substances by ISO 17025 methods, every batch before release, facility quality review | Every batch | Efficacy, or that the ingredient is Creapure |
-| **Informed Choice** | Retail monitoring and periodic testing for banned substances | Monthly sampling of retail products | Batch-by-batch release testing |
+| **Informed Choice** | Retail monitoring and periodic testing for banned substances | Periodic retail sampling | Batch-by-batch release testing |
 | **NSF Contents Certified** | Label content and contaminants (purity), not sport-banned substances | Periodic | Banned-substance screening for athletes |
 | **USP Verified** | Label content, contaminants, manufacturing | Periodic | Sport-banned substances unless combined with another programme |
 

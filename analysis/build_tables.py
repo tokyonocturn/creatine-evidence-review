@@ -19,9 +19,7 @@ import argparse
 import csv
 import datetime as dt
 import re
-import shutil
 import sys
-import tempfile
 from pathlib import Path
 from statistics import median
 
